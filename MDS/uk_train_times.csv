@@ -1,0 +1,10 @@
+City,London,Edinburgh,Glasgow,Sheffield,Manchester,Leeds,Cambridge,Oxford,Bristol
+London,0,,,,,,,,
+Edinburgh,250,0.0,,,,,,,
+Glasgow,280,75.0,0.0,,,,,,
+Sheffield,138,223.0,271.0,0.0,,,,,
+Manchester,142,192.0,196.0,50.0,0.0,,,,
+Leeds,138,182.0,242.0,54.0,54.0,0.0,,,
+Cambridge,49,329.0,366.0,200.0,212.0,194.0,0.0,,
+Oxford,52,322.0,338.0,159.0,166.0,252.0,144.0,0.0,
+Bristol,100,345.0,359.0,167.0,187.0,205.0,179.0,98.0,0.0
